@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-17T04:19:46.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MN1yw-Q56z4KXBhzCosz" version="14.6.11" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-17T04:19:59.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="h9_9eTcmoVuKvpOefCpg" version="14.6.11" type="github">
   <diagram id="Z0ZrLe4GcMbDIej74eAW" name="Page-1">
     <mxGraphModel dx="1093" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,14 +58,8 @@
             <mxPoint x="60" y="296" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFuITKRCXSgYXiUzAXiR-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.workstation;" vertex="1" parent="1">
-          <mxGeometry x="50" y="340" width="110" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="f_eVxwOhJyNtCNIKbd1p-1" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.workstation;" vertex="1" parent="1">
           <mxGeometry x="20" y="690" width="120" height="81.2" as="geometry" />
-        </mxCell>
-        <mxCell id="wFuITKRCXSgYXiUzAXiR-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;" vertex="1" parent="1">
-          <mxGeometry x="70" y="190" width="95.24" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f_eVxwOhJyNtCNIKbd1p-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="1" source="f_eVxwOhJyNtCNIKbd1p-4" target="f_eVxwOhJyNtCNIKbd1p-1">
           <mxGeometry relative="1" as="geometry">
